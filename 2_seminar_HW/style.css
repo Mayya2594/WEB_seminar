@@ -1,0 +1,21 @@
+p, ol, ul {
+    font-size: 1.2rem;
+}
+
+h1{
+    color: blue;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+a{
+    color: red;
+    font-size: 1.5rem;
+}
+
+img{
+    width: 750px;
+    border: 1px solid blueviolet;
+}
