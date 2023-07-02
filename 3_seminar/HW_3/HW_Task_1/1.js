@@ -9,4 +9,4 @@
 // Примечания: Пользователь всегда вводит корректное число.
 
 const degrees = Number.parseFloat(prompt('Ввдите температуру в градусах Цельсия:'));
-alert(`Цельсий: ${degrees}, Фаренгейт: ${((9 / 5) * degrees + 32).toFixed(2)}`)
+alert(`Цельсий: ${degrees}, Фаренгейт: ${((9 / 5) * degrees + 32).toFixed(2)}`);
